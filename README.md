@@ -33,6 +33,7 @@ The application uses a customizable character pool that includes uppercase lette
 4. Compile the source code using the following command: 
       
        javac *.java
+       
 5. Run the application using the following command:
       
        java Main
